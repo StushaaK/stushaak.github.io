@@ -1,5 +1,5 @@
-//Language: English
-//Translator: ntoombs19
+//Language: Česky
+//Translator: StushaaK
 var filter_01 = "LA Enhancer";
 var filter_02 = "Instructions";
 var filter_03 = "Created by";
